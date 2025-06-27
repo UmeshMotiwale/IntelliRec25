@@ -25,6 +25,8 @@ Here, A collaborative filtering-based movie recommendation engine developed usin
     - Implement k-NN and logistic regression models.
     - Evaluate models using Precision@k, Recall@k.
     - Compare model performances
+
+    Remaining--
     - Combine content-based and collaborative filtering approaches.
     - Incorporate user/item metadata to handle cold-start scenarios.
     - Visualize user/item embeddings using PCA or t-SNE.
