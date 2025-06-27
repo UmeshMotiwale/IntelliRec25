@@ -3,9 +3,6 @@
 **IntelliRec** is an Intelligent Recommendation Engine for personalized user experience.
 Here, A collaborative filtering-based movie recommendation engine developed using the [MovieLens](https://grouplens.org/datasets/movielens/) dataset. It utilizes the **SVD (Singular Value Decomposition)** algorithm via the `surprise` library to predict user ratings and recommend personalized movies.
 
----
-
-
 ## 📌 Features
 
 - 🔍 Predicts movie ratings for individual users
@@ -14,11 +11,7 @@ Here, A collaborative filtering-based movie recommendation engine developed usin
 - 📈 Efficient data processing for large-scale datasets
 - 🛠 Modular, clean, and easy-to-understand code
 
----
-
-
--
-- **Tasks**:
+- **Journey**
     - Study linear algebra fundamentals.
     - Implement cosine similarity from scratch.
     - Collect and preprocess the dataset.
