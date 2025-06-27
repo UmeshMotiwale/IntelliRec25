@@ -12,7 +12,7 @@ Here, A collaborative filtering-based movie recommendation engine developed usin
 - 🛠 Modular, clean, and easy-to-understand code
 
 
- ## **Journey**
+ ## 📌 **Journey**
     - Study linear algebra fundamentals.
     - Implement cosine similarity from scratch.
     - Collect and preprocess the dataset.
